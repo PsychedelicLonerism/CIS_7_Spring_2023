@@ -1,0 +1,13 @@
+﻿  cipher.cpp
+C:\Users\jilania\source\repos\test\test\Encrypt.h(22,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jilania\source\repos\test\test\Encrypt.h(31,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jilania\source\repos\test\test\cipher.cpp(45,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jilania\source\repos\test\test\cipher.cpp(46,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jilania\source\repos\test\test\cipher.cpp(52,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jilania\source\repos\test\test\cipher.cpp(53,46): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Decrypt.cpp
+  Encrypt.cpp
+C:\Users\jilania\source\repos\test\test\Encrypt.h(22,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jilania\source\repos\test\test\Encrypt.h(31,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  test.vcxproj -> C:\Users\jilania\source\repos\test\x64\Debug\test.exe
